@@ -1,0 +1,24 @@
+{
+  "name": "web-gl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangj008/Web-GL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huangj008/Web-GL/issues"
+  },
+  "homepage": "https://github.com/huangj008/Web-GL#readme",
+  "dependencies": {
+    "date-and-time": "^2.0.1",
+    "three": "^0.133.1"
+  }
+}
